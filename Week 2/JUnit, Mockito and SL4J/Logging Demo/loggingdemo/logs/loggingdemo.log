@@ -1,0 +1,22 @@
+2025-06-28 14:30:41.396 [main] INFO  c.a.l.LoggingdemoApplication - Starting Logging Demo Application...
+2025-06-28 14:30:41.399 [main] WARN  c.a.l.LoggingdemoApplication - This is a warning message from Spring Boot application
+2025-06-28 14:30:41.401 [main] ERROR c.a.l.LoggingdemoApplication - This is an error message from Spring Boot application
+2025-06-28 14:30:42.254 [main] INFO  c.a.l.LoggingdemoApplication - Starting LoggingdemoApplication using Java 24.0.1 with PID 14232 (C:\Users\Anurag\Desktop\loggingdemo\loggingdemo\target\classes started by Anurag in C:\Users\Anurag\Desktop\loggingdemo\loggingdemo)
+2025-06-28 14:30:42.256 [main] DEBUG c.a.l.LoggingdemoApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-28 14:30:42.257 [main] INFO  c.a.l.LoggingdemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-28 14:30:43.173 [main] INFO  c.a.l.LoggingdemoApplication - Started LoggingdemoApplication in 1.633 seconds (process running for 2.561)
+2025-06-28 14:30:43.185 [main] INFO  c.a.l.LoggingdemoApplication - Logging Demo Application started successfully!
+2025-06-28 14:31:08.129 [main] INFO  c.a.l.LoggingdemoApplication - Starting Logging Demo Application...
+2025-06-28 14:31:08.132 [main] WARN  c.a.l.LoggingdemoApplication - This is a warning message from Spring Boot application
+2025-06-28 14:31:08.133 [main] ERROR c.a.l.LoggingdemoApplication - This is an error message from Spring Boot application
+2025-06-28 14:31:08.862 [main] INFO  c.a.l.LoggingdemoApplication - Starting LoggingdemoApplication using Java 24.0.1 with PID 17824 (C:\Users\Anurag\Desktop\loggingdemo\loggingdemo\target\classes started by Anurag in C:\Users\Anurag\Desktop\loggingdemo\loggingdemo)
+2025-06-28 14:31:08.863 [main] DEBUG c.a.l.LoggingdemoApplication - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-28 14:31:08.864 [main] INFO  c.a.l.LoggingdemoApplication - No active profile set, falling back to 1 default profile: "default"
+2025-06-28 14:31:09.616 [main] INFO  c.a.l.LoggingdemoApplication - Started LoggingdemoApplication in 1.349 seconds (process running for 2.203)
+2025-06-28 14:31:09.621 [main] INFO  c.a.l.LoggingdemoApplication - Logging Demo Application started successfully!
+2025-06-28 14:31:34.894 [main] INFO  o.s.t.c.s.AnnotationConfigContextLoaderUtils - Could not detect default configuration classes for test class [com.anuragbytes.loggingdemo.LoggingdemoApplicationTests]: LoggingdemoApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2025-06-28 14:31:35.078 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Found @SpringBootConfiguration com.anuragbytes.loggingdemo.LoggingdemoApplication for test class com.anuragbytes.loggingdemo.LoggingdemoApplicationTests
+2025-06-28 14:31:35.749 [main] INFO  c.a.l.LoggingdemoApplicationTests - Starting LoggingdemoApplicationTests using Java 24.0.1 with PID 9864 (started by Anurag in C:\Users\Anurag\Desktop\loggingdemo\loggingdemo)
+2025-06-28 14:31:35.749 [main] DEBUG c.a.l.LoggingdemoApplicationTests - Running with Spring Boot v3.5.3, Spring v6.2.8
+2025-06-28 14:31:35.750 [main] INFO  c.a.l.LoggingdemoApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2025-06-28 14:31:36.398 [main] INFO  c.a.l.LoggingdemoApplicationTests - Started LoggingdemoApplicationTests in 1.071 seconds (process running for 2.976)

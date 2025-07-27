@@ -1,0 +1,43 @@
+.score-container {
+  width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 2px solid #00aaff;
+  border-radius: 8px;
+  background-color: #f5faff;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.score-container h2 {
+  text-align: center;
+  color: #005577;
+}
+
+.score-container input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.score-container button {
+  width: 100%;
+  padding: 10px;
+  background-color: #007acc;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.score-container button:hover {
+  background-color: #005fa3;
+}
+
+.result {
+  margin-top: 20px;
+  background-color: #e6f2ff;
+  padding: 15px;
+  border-radius: 5px;
+}
